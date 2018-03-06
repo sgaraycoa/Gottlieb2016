@@ -8,7 +8,7 @@ Methods used:
 
 *Mixed (random and fixed) Effects fit with Restricted Maximum Likelihood
 
-Randomization Inference
+*Randomization Inference
 
 
 
