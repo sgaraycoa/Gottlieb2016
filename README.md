@@ -5,7 +5,8 @@ The main file in the repo is Gottlieb2016.R which contains the script to replica
 
 
 Methods used:
-Mixed (random and fixed) Effects fit with Restricted Maximum Likelihood
+
+*Mixed (random and fixed) Effects fit with Restricted Maximum Likelihood
 
 Randomization Inference
 
